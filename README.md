@@ -28,7 +28,7 @@
 ### Follow Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/EXtravissDevelopement)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vardandev/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/company/20523039)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/extravisswordpress)
 
 ### Status
