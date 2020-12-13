@@ -1,6 +1,6 @@
 [![Header](https://github.com/VardanDeveloper/vardandeveloper/blob/main/assets/Extraviss%20Web%20Studio.png)](https://itvlog.am/)
 
-## Full stack web developer and online instructor and youtuber(bloger) specializiing in mostly JS, but also write Wordpress, PHP and some other stuff.
+## Full stack web developer and online instructor and youtuber(blogger) specializiing in mostly JS, but also write Wordpress, PHP and some other stuff.
 
 ### Latest Project
 <!-- YOTUBE:START -->
